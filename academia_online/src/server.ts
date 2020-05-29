@@ -23,5 +23,5 @@ const httpServer = createServer(app);
 const PORT = 5300;
 httpServer.listen(
     { port: PORT },
-    () => console.log(`Graphql http://localhost:${PORT}`)
+    () => console.log(`Graphql http://localhost:${PORT}/graphql`)
 );
