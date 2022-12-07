@@ -22,7 +22,7 @@
     "graphql": "^15.0.0",
     "graphql-import-node": "0.0.4",
     "graphql-playground-middleware-express": "^1.7.14",
-    "graphql-tools": "^6.0.1",
+    "graphql-tools": "^6.2.6",
     "http": "0.0.1-security",
     "ncp": "^2.0.0",
     "npx": "^10.2.2",
